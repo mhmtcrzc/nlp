@@ -1,0 +1,5 @@
+zemberek_grpc
+scikit_learn
+grpcio
+numpy==1.22.3
+pandas==1.4.2

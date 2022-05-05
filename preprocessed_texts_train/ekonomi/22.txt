@@ -1,0 +1,1 @@
+['doğalgaz', 'zam', 'fiyat', 'sat', 'başla', 'vatandaş', 'lira', 'sat', 'doğalgaz', 'metreküp', 'ötv', 'art', 'birlikte', 'lira', 'sat', 'belediye', 'yetkili', 'maliye', 'ötv', 'oran', 'artır', 'doğalgaz', 'fiyat', 'art', 'yansı', 'belir', 'zam', 'vergi', 'oran', 'art', 'kaynakla', 'sadece', 'art', 'oran', 'fiyat', 'yansı', 'bil']

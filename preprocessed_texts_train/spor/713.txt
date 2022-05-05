@@ -1,0 +1,1 @@
+['futbol', 'tarih', 'brezilya', 'maç', 'yıl', 'takvim', 'yaprak', 'mayıs', 'göster', 'istanbul', 'mithatpaşa', 'çık', 'türkiye', 'brezilya', 'mil', 'takım', 'kıy', 'mücadele', 'konuk', 'ekip', 'djalma', 'gol', 'galip', 'ayır', 'tarih', 'şükrü', 'basri', 'kadri', 'isfendiyar', 'kadri', 'takım', 'zorla', 'brezilya', 'yıl', 'ilk', 'dünya', 'kazan', 'başar']

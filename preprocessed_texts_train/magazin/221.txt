@@ -1,0 +1,1 @@
+['madonna', 'turne', 'hız', 'başla', 'pop', 'yıldız', 'madonna', 'turne', 'avrupa', 'ayak', 'başla', 'akşam', 'ver', 'konser', 'hayran', 'izle', 'madonna', 'dans', 'şov', 'form', 'kaybet', 'göster']

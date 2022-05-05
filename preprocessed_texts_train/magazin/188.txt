@@ -1,0 +1,1 @@
+['avukat', 'bit', 'sıra', 'hemşire', 'ally', 'mcbeal', 'dizi', 'avukat', 'rol', 'beğeni', 'kazan', 'calista', 'yeni', 'sinema', 'film', 'kol', 'sıva', 'evlat', 'edin', 'küçük', 'oğul', 'harrison', 'ford', 'mutlu', 'beraber', 'yaşa', 'yeni', 'film', 'anlaşma', 'imzala', 'yönetmen', 'yap', 'ispanyol', 'film', 'genç', 'oyun', 'hemşire', 'can']

@@ -1,0 +1,1 @@
+['butik', 'hülya', 'kız', 'kardeş', 'avşar', 'takı', 'tasarım', 'deniz', 'birlikte', 'butik', 'hazırla', 'isim', 'mağaza', 'yoğun', 'çalış', 'tempo', 'gir', 'sonunda', 'ara', 'bul', 'bomba', 'gel']

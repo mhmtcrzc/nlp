@@ -1,0 +1,1 @@
+['tehdit', 'kriz', 'tehdit', 'başkan', 'gündem', 'birinci', 'konu', 'yıldız', 'oyun', 'ölüm', 'tehdit', 'iddia', 'kampanya', 'başla', 'spor', 'bakan', 'yorgos', 'başkan', 'camia', 'ihraç', 'hal', 'aek', 'lig', 'çek', 'zor', 'kal', 'konu', 'karar', 'konuş']

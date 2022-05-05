@@ -1,0 +1,1 @@
+['cengiz', 'boşa', 'karar', 'ver', 'seren', 'teselli', 'yakın', 'arkadaş', 'mehmet', 'ali', 'erbil', 'sevgili', 'tuğba', 'düş', 'erbil', 'sevgili', 'gece', 'uzun', 'zaman', 'kapa', 'moral', 'bozuk', 'söyle', 'yol', 'tut', 'buz', 'git', 'ardından', 'anjelique', 'ara', 'coşkun', 'bırak', 'sabah', 'karşı', 'hummer', 'cip', 'dön']

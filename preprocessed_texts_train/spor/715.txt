@@ -1,0 +1,1 @@
+['ispanya', 'nihayet', 'fark', 'geçen', 'boğa', 'yıl', 'yan', 'ilk', 'turnuva', 'maç', 'galibiyet', 'ayır', 'başar', 'yıl', 'yan', 'ilk', 'sınav', 'kazan', 'çık', 'galibiyet', 'raul', 'valero', 'penaltı', 'kaydet', 'gol', 'getir', 'tek', 'sayı', 'gelir', 'penaltı', 'pozisyon', 'ağır', 'karar', 'ver', 'fasıl', 'hakem', 'sloven', 'futbol', 'protesto', 'hedef']

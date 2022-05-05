@@ -1,0 +1,1 @@
+['sev', 'saban', 'baba', 'sakıp', 'vefat', 'orta', 'görün', 'nisan', 'yan', 'istanbul', 'gece', 'önem', 'davet', 'hariç', 'dışarı', 'çık', 'saban', 'ilk', 'eğlen', 'gece', 'kız', 'melisa', 'yakın', 'birlikte', 'angelique', 'git', 'saban', 'yemek', 'dost', 'hasret', 'git', 'geç', 'saat', 'mekan', 'çık', 'saban', 'gel', 'ekip', 'birlikte', 'gece', 'kulüp', 'ayır']

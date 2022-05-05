@@ -1,0 +1,1 @@
+['ilişki', 'aile', 'onay', 'kanal', 'dizi', 'başrol', 'oyun', 'tuğçe', 'kazaz', 'sezen', 'oğul', 'mithat', 'can', 'yaşa', 'ilişki', 'iyi', 'git', 'söyle', 'birliktelik', 'aile', 'onay', 'belir', 'kazaz', 'konuş', 'zarar', 'ver', 'gayet', 'düzgün', 'onayla', 'ilişki', 'yaşa', 'mithat', 'can', 'yan', 'arka', 'gurur', 'dur', 'hak', 'insan', 'sevgi', 'yaşa', 'söyle']

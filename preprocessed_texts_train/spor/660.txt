@@ -1,0 +1,1 @@
+['mil', 'takım', 'lider', 'haber', 'kanal', 'site', 'yıl', 'futbol', 'takım', 'aday', 'ara', 'gösteri', 'yıldız', 'ekip', 'oran', 'zirve', 'çık', 'dünya', 'üçüncü', 'mil', 'takım', 'haber', 'kanal', 'resmi', 'internet', 'site', 'yıl', 'futbol', 'takım', 'aday', 'ara', 'göster', 'site', 'ziyaret', 'belirle', 'seçim', 'ilk', 'gün', 'yıldız', 'ekip', 'oran', 'zirve', 'çık', 'anket']

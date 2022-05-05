@@ -1,0 +1,1 @@
+['şok', 'karar', 'basketbol', 'bayan', 'birinci', 'geç', 'sezon', 'kupa', 'botaş', 'avrupa', 'katıl', 'başkan', 'gürhan', 'ünal', 'enerji', 'kaynak', 'genel', 'müdür', 'talimat', 'gereğince', 'harca', 'aşağı', 'çek', 'belir', 'devlet', 'kuruluş', 'ver', 'talimat', 'zor']

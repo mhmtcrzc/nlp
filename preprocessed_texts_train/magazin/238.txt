@@ -1,0 +1,1 @@
+['evlen', 'sev', 'aktör', 'tom', 'cruise', 'nişan', 'penelope', 'ayır', 'yeni', 'ara', 'başla', 'ınternet', 'mirror', 'site', 'haber', 'güldür', 'macera', 'merak', 'motosiklet', 'uçak', 'sev', 'kadın', 'evlen', 'hazır', 'söyle', 'cruise', 'evlen', 'sev', 'erkek', 'vazgeç', 'vazgeç']

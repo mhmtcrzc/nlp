@@ -1,0 +1,1 @@
+['inci', 'abla', 'evlen', 'kanal', 'yayınla', 'çocuk', 'program', 'inci', 'abla', 'karakter', 'tanı', 'dizi', 'rol', 'inci', 'türkay', 'hayat', 'ankara', 'işadamı', 'ahmet', 'eroğlu', 'birleş', 'oyun', 'turne', 'sıra', 'tanış', 'çift', 'birliktelik', 'evlilik', 'karar', 'sür', 'karar', 'ver', 'mutlu', 'beraber', 'yaşa', 'çift', 'nikah', 'ara', 'paris', 'türk', 'konsolos', 'kıy']

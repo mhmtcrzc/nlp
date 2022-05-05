@@ -1,0 +1,1 @@
+['topsakal', 'yakış', 'yaz', 'baş', 'sevgili', 'eda', 'birlikte', 'tatil', 'yap', 'işadamı', 'nurettin', 'hasman', 'geç', 'hafta', 'art', 'art', 'yaşa', 'deprem', 'dön', 'süre', 'ilgilen', 'tekrar', 'git', 'hasman', 'yan', 'kız', 'mina', 'götür', 'bodrum', 'sahil', 'aile', 'güneşle', 'deniz', 'gir', 'nurettin', 'değişim', 'topsakal', 'nurettin', 'yeni', 'imaj', 'yakış', 'söyle']

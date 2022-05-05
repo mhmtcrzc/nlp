@@ -1,0 +1,1 @@
+['tempo', 'samet', 'aybaba', 'hazırlık', 'maç', 'hırs', 'tempo', 'maç', 'oyna', 'söyle', 'iyi', 'oyna', 'kaydet', 'aybaba', 'saha', 'yakış', 'hareket', 'meydan', 'gel', 'turnuva', 'birbiri', 'alkışla', 'lig', 'bit', 'konuş']

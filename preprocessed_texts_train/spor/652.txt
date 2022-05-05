@@ -1,0 +1,1 @@
+['futbol', 'şölen', 'organize', 'wow', 'cup', 'futbol', 'ilk', 'ayak', 'yarın', 'yap', 'başla', 'wow', 'football', 'düzenle', 'turnuva', 'rusya', 'almanya', 'belçika', 'takım', 'beşiktaş', 'denizlispor', 'antalyaspor', 'katıl', 'ayrı', 'grup', 'düzenle', 'turnuva', 'büyük', 'çekiş', 'sahne']

@@ -1,0 +1,1 @@
+['sinema', 'film', 'gösterim', 'film', 'yara', 'seslen', 'okan', 'bayülgen', 'gala', 'gece', 'eti', 'sinema', 'küba', 'manken', 'sevgili', 'gel', 'şovmen', 'ilişki', 'gayet', 'iyi', 'git', 'yabancı', 'uyruk', 'evlen', 'düşün', 'söz', 'karşı', 'yorum', 'yap']

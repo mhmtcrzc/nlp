@@ -1,0 +1,1 @@
+['yarım', 'saat', 'deniz', 'keyif', 'eğlence', 'hayat', 'duayen', 'celal', 'çapa', 'gözde', 'mekan', 'havana', 'tampa', 'işle', 'gün', 'konuk', 'iyi', 'şekil', 'ağırla', 'hazırlık', 'yap', 'geçir', 'celal', 'bey', 'deniz', 'yarım', 'saat', 'gir', 'akşam', 'üzeri', 'sahil', 'deniz', 'buluş', 'celal', 'çapa', 'gün', 'yorgun', 'üzeri']

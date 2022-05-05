@@ -1,0 +1,1 @@
+['türk', 'spor', 'duayen', 'islam', 'çupi', 'ölüm', 'ikinci', 'yıl', 'kabir', 'baş', 'özgü', 'üslup', 'yorum', 'karakter', 'milyonlarca', 'hayran', 'kazan', 'sev', 'yalnız', 'bırak', 'topkapı', 'maltepe', 'kabir', 'baş', 'spor', 'dünya', 'gel', 'isim', 'buluş', 'islam', 'dua']

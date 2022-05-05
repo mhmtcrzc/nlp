@@ -1,0 +1,1 @@
+['şampiyon', 'tanıtım', 'formula', 'geçen', 'yıl', 'şampiyon', 'ferrari', 'sezon', 'yeni', 'otomobil', 'dün', 'maranello', 'kasaba', 'tanı', 'yeni', 'kısa', 'süre', 'onur', 'başkan', 'ver', 'sun', 'yeni', 'tanıtım', 'pilot', 'michael', 'schumacher', 'rubens', 'barrichello', 'birlikte', 'seçkin', 'misafir', 'katıl']

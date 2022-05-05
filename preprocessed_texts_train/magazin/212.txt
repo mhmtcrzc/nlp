@@ -1,0 +1,1 @@
+['yeni', 'aşk', 'yelken', 'podyum', 'bırak', 'podyum', 'bırak', 'açıkla', 'yap', 'sinem', 'güven', 'konu', 'hak', 'göster', 'manken', 'yaklaşık', 'yıl', 'yürü', 'podyum', 'kusur', 'vücut', 'çıtır', 'manken', 'taş', 'çıkar', 'türkbükü', 'açık', 'yaklaş', 'esrarengiz', 'tekne', 'güverte', 'çık', 'güneşle', 'sinem', 'yeni', 'aşk', 'yelken', 'konuş']

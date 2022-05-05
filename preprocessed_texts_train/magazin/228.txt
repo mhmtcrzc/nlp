@@ -1,0 +1,1 @@
+['psikopat', 'rol', 'numara', 'film', 'kahraman', 'rol', 'can', 'tom', 'psikopat', 'katil', 'oyna', 'son', 'film', 'gösteri', 'gir', 'ilk', 'hafta', 'sonunda', 'gişe', 'hasılat', 'bakım', 'ilk', 'sıra', 'yerleş', 'film', 'cuma', 'gün', 'pazar', 'dolar', 'hasılat']

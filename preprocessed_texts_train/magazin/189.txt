@@ -1,0 +1,1 @@
+['yıldız', 'evlilik', 'soyun', 'matrix', 'film', 'yıldız', 'keanu', 'reeves', 'kız', 'arkadaş', 'autumn', 'evlen', 'teklif', 'ingiliz', 'daily', 'star', 'gazete', 'iddia', 'yakışıklı', 'oyun', 'kız', 'arkadaş', 'los', 'romantik', 'akşam', 'yemek', 'evlen', 'teklif', 'evet', 'hafta', 'evlilik', 'hazırlık', 'başla', 'bil']

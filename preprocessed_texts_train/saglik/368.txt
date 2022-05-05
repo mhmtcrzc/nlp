@@ -1,0 +1,1 @@
+['eczane', 'ilaç', 'depo', 'zam', 'ilaç', 'sat', 'yarın', 'başla', 'yap', 'fiyat', 'art', 'lira', 'sat', 'tablet', 'lira', 'lira', 'sat', 'fort', 'lira', 'çık', 'antibiyotik', 'lira', 'lira', 'antibiyotik', 'lira', 'lira', 'yüksel', 'fiyat', 'art', 'yap', 'ilaç', 'eski', 'yeni', 'sat', 'fiyat', 'söyle', 'ilaç', 'eski', 'fiyat', 'yeni', 'fiyat', 'aspirin', 'çocuk', 'aspir', 'tab']

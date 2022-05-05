@@ -1,0 +1,1 @@
+['sadece', 'gün', 'işle', 'eğitim', 'tamamla', 'aile', 'şirket', 'kosif', 'yönetim', 'kurulu', 'üye', 'geçen', 'hilal', 'kosif', 'yorgun', 'yemek', 'görüntüle', 'hilal', 'hanım', 'yoğun', 'geçen', 'sezon', 'ardından', 'dost', 'sohbet', 'bol', 'bol', 'güneşle', 'yenile', 'günlük', 'gel', 'hilal', 'bekle']

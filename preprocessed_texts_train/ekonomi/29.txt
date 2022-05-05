@@ -1,0 +1,1 @@
+['susuz', 'fırça', 'diş', 'temiz', 'diş', 'temiz', 'yeni', 'sayfa', 'diş', 'fırça', 'diş', 'temizle', 'sağla', 'yeni', 'ürün', 'geliş', 'parmak', 'takıl', 'sünger', 'ürün', 'saye', 'diş', 'kolay', 'temizle', 'sağla', 'isim', 'ürün', 'diş', 'macun', 'diş', 'fırça', 'alternatif', 'piyasa', 'çıkar', 'tek', 'hal', 'sat', 'yeni', 'ürün', 'kullanım']

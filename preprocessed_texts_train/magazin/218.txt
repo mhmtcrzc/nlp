@@ -1,0 +1,1 @@
+['yaş', 'çıkar', 'türk', 'sanat', 'müzik', 'albüm', 'müzik', 'piyasa', 'merhaba', 'seniha', 'reşit', 'dönem', 'yer', 'sahne', 'açıkla', 'yaş', 'süre', 'gir', 'seniha', 'söyle', 'teklif', 'getir', 'yaş', 'öğren', 'kork', 'çıkar', 'vazgeç', 'yaş', 'gece', 'kulüp', 'istanbul', 'dış', 'bayi', 'toplantı', 'sahne', 'çık', 'yer', 'polis', 'gel', 'dinle', 'gel', 'san']

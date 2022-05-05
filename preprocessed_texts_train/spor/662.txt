@@ -1,0 +1,1 @@
+['avrupa', 'etap', 'yıl', 'batı', 'güvenlik', 'koşul', 'yetersiz', 'fransa', 'tunus', 'libya', 'mısır', 'rota', 'izle', 'dakar', 'yarış', 'bugün', 'afrika', 'kıta', 'taşı', 'genel', 'klasman', 'lider', 'sür', 'yarış', 'üçüncü', 'etap', 'hiroshi', 'kazan', 'ara', 'yarış', 'tek', 'türk', 'kemal', 'merkit', 'motosiklet', 'kategori', 'mücadele', 'sür']

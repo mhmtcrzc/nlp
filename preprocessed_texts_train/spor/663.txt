@@ -1,0 +1,1 @@
+['yıldız', 'geçit', 'birleşik', 'arap', 'futbol', 'juventus', 'dünya', 'yen', 'dolar', 'harca', 'yap', 'muhteşem', 'organizasyon', 'futbol', 'alpay', 'bülent', 'kork', 'dakika', 'dünya', 'forma', 'giy', 'gol', 'trezeguet', 'zambrotta', 'dünya', 'sayı', 'batistuta', 'gel', 'futbol', 'devre', 'ara', 'yap', 'müthiş', 'gösteri', 'ayak', 'alkış']

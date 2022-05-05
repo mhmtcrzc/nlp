@@ -1,0 +1,1 @@
+['sarı', 'sarı', 'şarkı', 'maldiv', 'polonya', 'klip', 'çek', 'kırmızıgül', 'yeni', 'klip', 'gelenek', 'boz', 'yabancı', 'manken', 'kamera', 'karşı', 'geç', 'kırmızıgül', 'saygı', 'şarkı', 'manken', 'ara', 'seç', 'romanya', 'manken', 'türkü', 'türk', 'manken', 'klip', 'çek', 'iste', 'yanlış', 'anlaş', 'yabancı', 'manken', 'çalış', 'tercih', 'konuş']

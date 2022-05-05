@@ -1,0 +1,1 @@
+['bjk', 'başkan', 'yıldırım', 'amca', 'bilgin', 'demirören', 'aile', 'itiraz', 'yaş', 'küçük', 'sevgili', 'ebru', 'vazgeç', 'bodrum', 'divan', 'tatil', 'yap', 'sevgili', 'çifte', 'kumru', 'sonbahar', 'evlen', 'planla', 'göz', 'göz', 'demirören', 'yen', 'şimdiden', 'balayı']
